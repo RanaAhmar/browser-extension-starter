@@ -7,6 +7,7 @@
 A modern, high-performance boilerplate for building cross-browser extensions using **Vite**, **React**, and **Tailwind CSS**. Optimized for developer experience and lightning-fast builds.
 
 
+
 ---
 
 ## 🚀 Discover More from Stackaura
@@ -24,4 +25,5 @@ If you found this tool useful, check out our other high-performance web utilitie
 - **Author:** [Ahmar Hussain](https://github.com/RanaAhmar)
 
 ---
+
 
